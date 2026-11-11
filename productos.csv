@@ -1,0 +1,83 @@
+sku,nombre,familia,subfamilia,unidad,gama,tipo_item,precio_lista,sku_superior,fecha_alta,activo
+QUI-001,Lavandina concentrada 5 L,Químicos de limpieza,Desinfectantes,Bidón,Estándar,C,6500,QUI-002,2023-01-01,Sí
+QUI-002,Desinfectante amonio cuaternario 5 L,Químicos de limpieza,Desinfectantes,Bidón,Premium,C,18400,,2023-01-01,Sí
+QUI-003,Detergente neutro 5 L,Químicos de limpieza,Detergentes,Bidón,Estándar,C,7900,QUI-004,2023-01-01,Sí
+QUI-004,Detergente concentrado biodegradable 5 L,Químicos de limpieza,Detergentes,Bidón,Premium,C,15600,,2023-01-01,Sí
+QUI-005,Desengrasante alcalino 5 L,Químicos de limpieza,Desengrasantes,Bidón,Estándar,C,11200,QUI-006,2023-01-01,Sí
+QUI-006,Desengrasante industrial biodegradable 5 L,Químicos de limpieza,Desengrasantes,Bidón,Premium,C,21500,,2023-01-01,Sí
+QUI-007,Limpiador de pisos perfumado 5 L,Químicos de limpieza,Limpiadores de pisos,Bidón,Estándar,C,6900,QUI-008,2023-01-01,Sí
+QUI-008,Limpiador de pisos con cera autobrillo 5 L,Químicos de limpieza,Limpiadores de pisos,Bidón,Premium,C,14800,,2023-01-01,Sí
+QUI-009,Limpiavidrios 5 L,Químicos de limpieza,Limpiavidrios,Bidón,Estándar,C,7400,QUI-010,2023-01-01,Sí
+QUI-010,Limpiavidrios antiestático con alcohol 5 L,Químicos de limpieza,Limpiavidrios,Bidón,Premium,C,12900,,2023-01-01,Sí
+QUI-011,Limpiador de sanitarios ácido 1 L,Químicos de limpieza,Sanitarios,Botella,Estándar,C,3900,QUI-012,2023-01-01,Sí
+QUI-012,Gel desincrustante para sanitarios 1 L,Químicos de limpieza,Sanitarios,Botella,Premium,C,6800,,2023-01-01,Sí
+IND-001,Desincrustante ácido industrial 20 L,Químicos industriales,Desincrustantes,Bidón,Estándar,C,58000,,2023-01-01,Sí
+IND-002,Espuma alcalina clorada 20 L,Químicos industriales,Espumas alimentarias,Bidón,Estándar,C,64000,,2023-01-01,Sí
+IND-003,Sanitizante ácido peracético 20 L,Químicos industriales,Sanitizantes alimentarios,Bidón,Premium,C,89000,,2023-01-01,Sí
+IND-004,Detergente CIP alcalino 20 L,Químicos industriales,CIP,Bidón,Estándar,C,72000,,2023-01-01,Sí
+IND-005,Removedor de grasa carbonizada 5 L,Químicos industriales,Desengrasantes industriales,Bidón,Estándar,C,24500,,2023-01-01,Sí
+IND-006,Sanitizante base enzimática biodegradable 20 L,Químicos industriales,Sanitizantes alimentarios,Bidón,Premium,C,112000,,2026-09-01,Sí
+PAP-001,Papel higiénico rollo 300 m (caja x8),Papelería sanitaria,Papel higiénico,Caja,Estándar,C,28000,PAP-002,2023-01-01,Sí
+PAP-002,Papel higiénico hoja doble 250 m (caja x8),Papelería sanitaria,Papel higiénico,Caja,Premium,C,41000,,2023-01-01,Sí
+PAP-003,Toalla intercalada simple (caja x2500),Papelería sanitaria,Toallas de manos,Caja,Estándar,C,24000,PAP-004,2023-01-01,Sí
+PAP-004,Toalla intercalada hoja doble (caja x2500),Papelería sanitaria,Toallas de manos,Caja,Premium,C,36500,,2023-01-01,Sí
+PAP-005,Toalla bobina 200 m (bulto x6),Papelería sanitaria,Toallas bobina,Bulto,Estándar,C,31000,PAP-006,2023-01-01,Sí
+PAP-006,Toalla bobina autocorte 150 m (bulto x6),Papelería sanitaria,Toallas bobina,Bulto,Premium,C,47000,,2023-01-01,Sí
+PAP-007,Servilleta de mesa (paquete x1000),Papelería sanitaria,Servilletas,Paquete,Estándar,C,9800,,2023-01-01,Sí
+PAP-008,Rollo de sábana para camilla 50 cm,Papelería sanitaria,Uso sanitario,Rollo,Estándar,C,8700,,2023-01-01,Sí
+DIS-001,Dispensador papel higiénico plástico,Dispensadores,Disp. papel higiénico,Unidad,Estándar,E,19500,DIS-002,2023-01-01,Sí
+DIS-002,Dispensador papel higiénico acero inoxidable,Dispensadores,Disp. papel higiénico,Unidad,Premium,E,48000,,2023-01-01,Sí
+DIS-003,Dispensador toalla intercalada plástico,Dispensadores,Disp. toallas,Unidad,Estándar,E,21000,DIS-004,2023-01-01,Sí
+DIS-004,Dispensador toalla autocorte,Dispensadores,Disp. toallas,Unidad,Premium,E,69000,,2023-01-01,Sí
+DIS-005,Dispensador jabón manual 1 L,Dispensadores,Disp. jabón,Unidad,Estándar,E,14500,DIS-006,2023-01-01,Sí
+DIS-006,Dispensador jabón automático con sensor,Dispensadores,Disp. jabón,Unidad,Premium,E,52000,,2023-01-01,Sí
+DIS-007,Dispenser de pie para alcohol en gel,Dispensadores,Disp. alcohol,Unidad,Estándar,E,58000,,2023-01-01,Sí
+HIG-001,Jabón líquido de manos 5 L,Higiene de manos,Jabón de manos,Bidón,Estándar,C,9200,HIG-002,2023-01-01,Sí
+HIG-002,Jabón espuma antibacterial 5 L,Higiene de manos,Jabón de manos,Bidón,Premium,C,19800,,2023-01-01,Sí
+HIG-003,Alcohol en gel 5 L,Higiene de manos,Antisépticos,Bidón,Estándar,C,16500,,2023-01-01,Sí
+HIG-004,Alcohol etílico 70% 5 L,Higiene de manos,Antisépticos,Bidón,Estándar,C,13800,,2023-01-01,Sí
+HIG-005,Crema protectora de manos 1 L,Higiene de manos,Cuidado de manos,Botella,Estándar,C,11500,,2023-01-01,Sí
+BOL-001,Bolsa consorcio 60x90 (rollo x30),Bolsas y residuos,Bolsas de residuos,Rollo,Estándar,C,3400,BOL-002,2023-01-01,Sí
+BOL-002,Bolsa consorcio reforzada 80x110 (rollo x20),Bolsas y residuos,Bolsas de residuos,Rollo,Premium,C,6900,,2023-01-01,Sí
+BOL-003,Bolsa roja residuos patogénicos (paquete x50),Bolsas y residuos,Residuos patogénicos,Paquete,Estándar,C,12800,,2023-01-01,Sí
+BOL-004,Bolsa verde reciclables (rollo x30),Bolsas y residuos,Reciclables,Rollo,Estándar,C,4100,,2023-01-01,Sí
+BOL-005,Contenedor 120 L con ruedas y pedal,Bolsas y residuos,Contenedores,Unidad,Estándar,E,86000,,2023-01-01,Sí
+BOL-006,Cesto papelero 25 L,Bolsas y residuos,Contenedores,Unidad,Estándar,E,9500,,2023-01-01,Sí
+BOL-007,Descartador de cortopunzantes 3 L,Bolsas y residuos,Residuos patogénicos,Unidad,Estándar,C,4600,,2023-01-01,Sí
+UTE-001,Mopa de algodón 400 g,Utensilios,Mopas,Unidad,Estándar,C,5200,UTE-002,2023-01-01,Sí
+UTE-002,Mopa plana de microfibra 50 cm,Utensilios,Mopas,Unidad,Premium,C,11900,,2023-01-01,Sí
+UTE-003,Trapo de piso gris,Utensilios,Trapos y paños,Unidad,Estándar,C,1500,UTE-004,2023-01-01,Sí
+UTE-004,Paño de microfibra por color (pack x10),Utensilios,Trapos y paños,Pack,Premium,C,13500,,2023-01-01,Sí
+UTE-005,Escoba plástica,Utensilios,Escobas y cepillos,Unidad,Estándar,C,3800,UTE-006,2023-01-01,Sí
+UTE-006,Cepillo barrendero industrial 60 cm,Utensilios,Escobas y cepillos,Unidad,Premium,C,12600,,2023-01-01,Sí
+UTE-007,Secador de piso 40 cm,Utensilios,Secadores,Unidad,Estándar,C,4200,UTE-008,2023-01-01,Sí
+UTE-008,Secador doble goma 60 cm,Utensilios,Secadores,Unidad,Premium,C,9600,,2023-01-01,Sí
+UTE-009,Balde con escurridor 12 L,Utensilios,Baldes y carros,Unidad,Estándar,E,9800,UTE-010,2023-01-01,Sí
+UTE-010,Carro doble balde con prensa,Utensilios,Baldes y carros,Unidad,Premium,E,142000,,2023-01-01,Sí
+UTE-011,Esponja doble faz (pack x10),Utensilios,Esponjas,Pack,Estándar,C,4300,,2023-01-01,Sí
+UTE-012,Cartel de piso mojado,Utensilios,Señalización,Unidad,Estándar,E,7800,,2023-01-01,Sí
+UTE-013,Paño de microfibra antibacterial (pack x10),Utensilios,Trapos y paños,Pack,Premium,C,19900,,2026-08-15,Sí
+EQU-001,Aspiradora polvo-agua 30 L,Equipos,Aspiradoras,Unidad,Estándar,E,310000,EQU-002,2023-01-01,Sí
+EQU-002,Aspiradora industrial 3 motores 80 L,Equipos,Aspiradoras,Unidad,Premium,E,890000,,2023-01-01,Sí
+EQU-003,Lustradora 17 pulgadas,Equipos,Pisos,Unidad,Estándar,E,780000,EQU-008,2023-01-01,Sí
+EQU-004,Fregadora automática con conductor a pie,Equipos,Pisos,Unidad,Premium,E,4600000,,2023-01-01,Sí
+EQU-005,Hidrolavadora agua fría 150 bar,Equipos,Hidrolavadoras,Unidad,Estándar,E,520000,EQU-006,2023-01-01,Sí
+EQU-006,Hidrolavadora agua caliente 180 bar,Equipos,Hidrolavadoras,Unidad,Premium,E,2350000,,2023-01-01,Sí
+EQU-007,Carro de limpieza integral,Equipos,Carros,Unidad,Estándar,E,260000,,2023-01-01,Sí
+EQU-008,Fregadora compacta a batería,Equipos,Pisos,Unidad,Premium,E,2900000,,2026-09-15,Sí
+REP-001,Disco para lustradora 17 pulgadas (x5),Repuestos y accesorios,Repuestos pisos,Pack,Estándar,C,38000,,2023-01-01,Sí
+REP-002,Bolsa filtro para aspiradora (x10),Repuestos y accesorios,Repuestos aspiradoras,Pack,Estándar,C,21000,,2023-01-01,Sí
+REP-003,Repuesto mopa microfibra 50 cm,Repuestos y accesorios,Repuestos mopas,Unidad,Estándar,C,7900,,2023-01-01,Sí
+REP-004,Goma de repuesto para secador,Repuestos y accesorios,Repuestos secadores,Unidad,Estándar,C,2900,,2023-01-01,Sí
+EPP-001,Guante de nitrilo descartable (caja x100),Elementos de protección personal,Guantes,Caja,Estándar,C,11800,EPP-002,2023-01-01,Sí
+EPP-002,Guante de nitrilo reforzado caña larga (par),Elementos de protección personal,Guantes,Par,Premium,C,4900,,2023-01-01,Sí
+EPP-003,Barbijo tricapa (caja x50),Elementos de protección personal,Protección respiratoria,Caja,Estándar,C,6500,EPP-004,2023-01-01,Sí
+EPP-004,Respirador N95 (caja x20),Elementos de protección personal,Protección respiratoria,Caja,Premium,C,29000,,2023-01-01,Sí
+EPP-005,Antiparras de seguridad,Elementos de protección personal,Protección ocular,Unidad,Estándar,C,4800,,2023-01-01,Sí
+EPP-006,Botas de goma caña alta,Elementos de protección personal,Calzado,Par,Estándar,C,18500,,2023-01-01,Sí
+EPP-007,Delantal impermeable PVC,Elementos de protección personal,Indumentaria,Unidad,Estándar,C,7600,,2023-01-01,Sí
+EPP-008,Mameluco descartable,Elementos de protección personal,Indumentaria,Unidad,Estándar,C,5400,,2023-01-01,Sí
+AMB-001,Aromatizante en aerosol 360 cc,Ambientación,Aromatizantes,Unidad,Estándar,C,3200,AMB-002,2023-01-01,Sí
+AMB-002,Aromatizador automático programable,Ambientación,Aromatizantes,Unidad,Premium,E,36000,,2023-01-01,Sí
+AMB-003,Repuesto aromatizador automático,Ambientación,Repuestos aromatizador,Unidad,Estándar,C,6900,,2023-01-01,Sí
+AMB-004,Pastilla desodorante para mingitorio (x10),Ambientación,Mingitorios,Pack,Estándar,C,5800,,2023-01-01,Sí
